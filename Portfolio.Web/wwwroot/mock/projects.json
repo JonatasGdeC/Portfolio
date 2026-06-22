@@ -22,8 +22,7 @@
     ],
     "links": {
       "production": "https://kanban-jgc.vercel.app/",
-      "frontendGithub": "https://github.com/JonatasGdeC/Kanban.Frontend",
-      "backendGithub": "https://github.com/JonatasGdeC/Kanban.Backend"
+      "github": "https://github.com/JonatasGdeC/Kanban"
     },
     "images": [
       "./media/projects/kanban/1.webp",
@@ -58,7 +57,7 @@
       "CSS"
     ],
     "links": {
-      "production": "https://cash-flow-jgc.vercel.app/",
+      "production": "https://cashflow-jgc.vercel.app/",
       "github": "https://github.com/JonatasGdeC/CashFlow"
     },
     "images": [

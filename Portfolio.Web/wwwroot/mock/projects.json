@@ -59,8 +59,7 @@
     ],
     "links": {
       "production": "https://cash-flow-jgc.vercel.app/",
-      "frontendGithub": "https://github.com/JonatasGdeC/CashFlow.Frontend",
-      "backendGithub": "https://github.com/JonatasGdeC/CashFlow.Backend"
+      "github": "https://github.com/JonatasGdeC/CashFlow"
     },
     "images": [
       "./media/projects/cashflow/2.webp",

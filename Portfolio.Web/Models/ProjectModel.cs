@@ -15,6 +15,7 @@ public record ProjectModel
 public record Links
 {
     public string? Production { get; init; }
+    public string? Github { get; init; }
     public string? FrontendGithub { get; init; }
     public string? BackendGithub { get; init; }
 }

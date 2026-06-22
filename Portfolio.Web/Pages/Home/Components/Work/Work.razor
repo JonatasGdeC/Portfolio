@@ -90,6 +90,11 @@
                         <a href="@SelectedProject.Links.Production" target="_blank" rel="noreferrer">Acesse aqui</a>
                     }
                     
+                    @if (!string.IsNullOrWhiteSpace(value: SelectedProject.Links.Github))
+                    {
+                        <a href="@SelectedProject.Links.Github" target="_blank" rel="noreferrer">Github</a>
+                    }
+                    
                     @if (!string.IsNullOrWhiteSpace(value: SelectedProject.Links.FrontendGithub))
                     {
                         <a href="@SelectedProject.Links.FrontendGithub" target="_blank" rel="noreferrer">Frontend</a>
